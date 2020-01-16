@@ -1,0 +1,6 @@
+framework module Pods_qkee {
+  umbrella header "Pods-qkee-umbrella.h"
+
+  export *
+  module * { export * }
+}
